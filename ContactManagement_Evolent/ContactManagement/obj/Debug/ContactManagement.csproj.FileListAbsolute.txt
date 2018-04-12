@@ -66,3 +66,37 @@ E:\Knowledge Factory\ContactManagemet\ContactManagement_Evolent\ContactManagemen
 E:\Knowledge Factory\ContactManagemet\ContactManagement_Evolent\ContactManagement\obj\Debug\ContactManagement.csprojResolveAssemblyReference.cache
 E:\Knowledge Factory\ContactManagemet\ContactManagement_Evolent\ContactManagement\obj\Debug\ContactManagemet.dll
 E:\Knowledge Factory\ContactManagemet\ContactManagement_Evolent\ContactManagement\obj\Debug\ContactManagemet.pdb
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\ContactManagemet.dll.config
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\ContactManagemet.dll
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\ContactManagemet.pdb
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\Antlr3.Runtime.dll
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\EntityFramework.dll
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\Microsoft.Web.Infrastructure.dll
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\Newtonsoft.Json.dll
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\System.Net.Http.Formatting.dll
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\System.Web.Helpers.dll
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\System.Web.Http.dll
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\System.Web.Http.WebHost.dll
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\System.Web.Mvc.dll
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\System.Web.Optimization.dll
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\System.Web.Razor.dll
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\System.Web.WebPages.Deployment.dll
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\System.Web.WebPages.dll
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\System.Web.WebPages.Razor.dll
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\WebGrease.dll
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\EntityFramework.xml
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\System.Web.Helpers.xml
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\System.Web.Mvc.xml
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\System.Web.Optimization.xml
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\System.Web.Razor.xml
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\System.Web.WebPages.xml
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\System.Web.WebPages.Deployment.xml
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\System.Web.WebPages.Razor.xml
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\Antlr3.Runtime.pdb
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\Newtonsoft.Json.xml
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\System.Net.Http.Formatting.xml
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\System.Web.Http.xml
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\bin\System.Web.Http.WebHost.xml
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\obj\Debug\ContactManagement.csprojResolveAssemblyReference.cache
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\obj\Debug\ContactManagemet.dll
+E:\Rohit_Tatiya\ContactManagement_Evolent\ContactManagement\obj\Debug\ContactManagemet.pdb
