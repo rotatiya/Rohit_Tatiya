@@ -28,10 +28,10 @@ namespace ContactManagemet.Tests.Controllers
         public void ShouldAddContacts()
         {
             Contact contact = new Contact();
-            contact.FirstName = "Pritam";
-            contact.LastName = "Ajmire";
-            contact.Email = "pritam.ajmire@gmail.com";
-            contact.PhoneNumber = "8446100120";
+            contact.FirstName = "Rohit";
+            contact.LastName = "Tatiya";
+            contact.Email = "Rohit_Tatiya1988@yahoo.co.in";
+            contact.PhoneNumber = "9405869492";
             contact.Status = "Active";
             Contact dbContact = Repo.AddContact(contact);
             Assert.AreEqual(dbContact, contact);
@@ -50,10 +50,10 @@ namespace ContactManagemet.Tests.Controllers
         public void ShouldUpdateContacts()
         {
             Contact contact = Repo.GetContact(lastContactId);
-            contact.FirstName = "John";
-            contact.LastName = "England";
-            contact.Email = "John.England@gmail.com";
-            contact.PhoneNumber = "5446100120";
+            contact.FirstName = "Rohitkumar";
+            contact.LastName = "Jain";
+            contact.Email = "rohit.tatiya1988@gmail.com";
+            contact.PhoneNumber = "7387440343";
             contact.Status = "Inactive";
 
             Contact dbContact = Repo.UpdateContact(contact);
@@ -76,10 +76,10 @@ namespace ContactManagemet.Tests.Controllers
         public void ValidateFirstName()
         {
             Contact contact = new Contact();
-            contact.FirstName = "";
-            contact.LastName = "Ajmire";
-            contact.Email = "pritam.ajmire@gmail.com";
-            contact.PhoneNumber = "8446100120";
+            contact.FirstName = string.Empty;
+            contact.LastName = "Tatiya";
+            contact.Email = "Rohit_Tatiya1988@yahoo.co.in";
+            contact.PhoneNumber = "9405869492";
             contact.Status = "Active";
             Contact dbContact = Repo.AddContact(contact);
             Assert.AreEqual(dbContact, contact);
