@@ -60,9 +60,13 @@ namespace ContactManagemet.Tests.RepositoryTests
         [TestMethod]
         public void ShouldDeleteContacts()
         {
-            Assert.IsTrue(Repo.DeleteContact(lastContactId));
             Contact contact = Repo.GetContact(lastContactId);
-            Assert.IsNull(contact);
+            if (contact != null)
+            {
+                Assert.IsTrue(Repo.DeleteContact(lastContactId));
+                contact = Repo.GetContact(lastContactId);
+                Assert.IsNull(contact);
+            }
         }
 
         [TestMethod]
